@@ -3,6 +3,8 @@
  
  User can switch between Dark and Light Mode according to needs
  
+ To Use the Calculator [Click Here](https://servermonk-calculator.herokuapp.com/)
+ 
 ![1](https://user-images.githubusercontent.com/87888134/174718095-528282d2-b3e6-4cef-8dfd-2b03ef3f8d35.png)
 
 ![2](https://user-images.githubusercontent.com/87888134/174716954-f122801c-7d98-4460-bb98-17018ca68ba3.png)
