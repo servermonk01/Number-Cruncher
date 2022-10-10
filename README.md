@@ -1,4 +1,4 @@
-# Mini-Calculator
+# Number Cruncher
  Calculator web app with JavaScript as the core and styled it with CSS
  
  User can switch between Dark and Light Mode according to needs
